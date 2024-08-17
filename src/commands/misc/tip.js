@@ -5,7 +5,7 @@ const {
 } = require('discord.js')
 
 module.exports = {
-    cooldown: 20,
+    cooldown: 15,
     data: new SlashCommandBuilder()
         .setName('fetchtip')
         .setDescription('Gets specified tip from tips channel')

@@ -11,7 +11,8 @@
         "discord",
         "discord-bot",
         "bot-development",
-        "discord-js"
+        "discord-js",
+        "d.js"
     ],
     "author": "driedfxrn",
     "license": "MIT",
